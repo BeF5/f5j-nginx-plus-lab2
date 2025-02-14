@@ -711,7 +711,7 @@ Failover の結果を確認します
   /etc/nginx/conf.d/default.conf  /etc/nginx/conf.d/dummy.conf
 
 以下コマンドを実行し、設定ファイルを同期します。
-なお、以下のコマンドが ``root`` で実行ください。
+なお、コマンドは ``root`` で実行ください。
 
 .. code-block:: cmdin
 
